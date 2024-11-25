@@ -1,0 +1,10 @@
+nav{
+    display: inline-flex;
+}
+.menu{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    background-color: beige;
+    margin: 5px;
+}
